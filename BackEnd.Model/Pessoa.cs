@@ -9,9 +9,9 @@ namespace BackEnd_Model
     public class Pessoa
     {
 
-        public System.Int32 id { get; set; }
-        public System.String nome { get; set; }
-        public System.String email { get; set; }
+        public int id { get; set; }
+        public string nome { get; set; }
+        public string email { get; set; }
 
     }
 }
