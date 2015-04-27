@@ -1,0 +1,7 @@
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.AD\bin\Debug\BackEnd.AD.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.AD\bin\Debug\BackEnd.AD.pdb
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.AD\obj\Debug\BackEnd.AD.csprojResolveAssemblyReference.cache
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.AD\obj\Debug\BackEnd.AD.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.AD\obj\Debug\BackEnd.AD.pdb
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.AD\bin\Debug\DAL.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.AD\bin\Debug\DAL.pdb

@@ -1,0 +1,5 @@
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Model\bin\Debug\BackEnd.Model.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Model\bin\Debug\BackEnd.Model.pdb
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Model\obj\Debug\BackEnd.Model.csprojResolveAssemblyReference.cache
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Model\obj\Debug\BackEnd.Model.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Model\obj\Debug\BackEnd.Model.pdb

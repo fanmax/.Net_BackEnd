@@ -1,0 +1,5 @@
+F:\Projetos\rodrigo\VisualStudio\BackEnd\DAL\bin\Debug\DAL.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\DAL\bin\Debug\DAL.pdb
+F:\Projetos\rodrigo\VisualStudio\BackEnd\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Projetos\rodrigo\VisualStudio\BackEnd\DAL\obj\Debug\DAL.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\DAL\obj\Debug\DAL.pdb

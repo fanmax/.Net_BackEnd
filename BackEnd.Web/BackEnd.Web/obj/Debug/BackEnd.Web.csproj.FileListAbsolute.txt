@@ -1,0 +1,12 @@
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Web\BackEnd.Web\bin\BackEnd.Web.dll.config
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Web\BackEnd.Web\bin\BackEnd.Web.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Web\BackEnd.Web\bin\BackEnd.Web.pdb
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Web\BackEnd.Web\obj\Debug\BackEnd.Web.csprojResolveAssemblyReference.cache
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Web\BackEnd.Web\obj\Debug\BackEnd.Web.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Web\BackEnd.Web\obj\Debug\BackEnd.Web.pdb
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Web\BackEnd.Web\bin\BackEnd.NG.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Web\BackEnd.Web\bin\BackEnd.AD.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Web\BackEnd.Web\bin\DAL.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Web\BackEnd.Web\bin\BackEnd.NG.pdb
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Web\BackEnd.Web\bin\BackEnd.AD.pdb
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.Web\BackEnd.Web\bin\DAL.pdb

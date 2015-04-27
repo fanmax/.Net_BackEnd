@@ -1,0 +1,9 @@
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.NG\bin\Debug\BackEnd.NG.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.NG\bin\Debug\BackEnd.NG.pdb
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.NG\obj\Debug\BackEnd.NG.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.NG\obj\Debug\BackEnd.NG.pdb
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.NG\bin\Debug\BackEnd.AD.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.NG\bin\Debug\DAL.dll
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.NG\bin\Debug\BackEnd.AD.pdb
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.NG\bin\Debug\DAL.pdb
+F:\Projetos\rodrigo\VisualStudio\BackEnd\BackEnd.NG\obj\Debug\BackEnd.NG.csprojResolveAssemblyReference.cache
